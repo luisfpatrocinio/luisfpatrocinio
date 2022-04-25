@@ -45,6 +45,15 @@ I'm passionate about learning everything related to game development.
   </a>
 </div>
 
+<div id="badges" align="center">
+  <a href="https://fiverr.com/luisfpatrocinio?up_rollout=true">
+    <img src="https://img.shields.io/badge/fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white" alt="Fiverr"/>
+  </a>
+  <a href="https://t.me/luisfelipepatrocinio">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</div>
+
 <br>
 
 <div align="center">
