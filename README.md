@@ -8,9 +8,9 @@ I use GameMaker for several years now, and I am always producing games, availabl
 ](https://github.com/luisfpatrocinio/)
 
 ### Contact
-[@patrocinioluisf][twitterlink] on Twitter
-[@luisf.patrocinio][instagramlink] on Instagram
-[Patrocinio#4174][discordlink] on Discord
+- [@patrocinioluisf][twitterlink] on Twitter
+- [@luisf.patrocinio][instagramlink] on Instagram
+- [Patrocinio#4174][discordlink] on Discord
 
 [bhgwebsite]: https://www.blackhole.games/
 [asleepwebsite]: http://bit.ly/AsleepSteam
