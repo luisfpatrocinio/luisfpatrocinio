@@ -1,19 +1,60 @@
 
-### Hi there, I'm Luis Felipe Patrocinio! 👋
-### I'm passionate about learning everything related to game development. 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/patrocinioluisf.svg??style=flat&label=%20%40patrocinioluisf)](https://twitter.com/patrocinioluisf) [![Linkedin URL](https://img.shields.io/badge/-luisfpatrocinio-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luisfpatrocinio/)
-](https://linkedin.com/in/luisfpatrocinio/) [![Github URL](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white
-)
-](https://github.com/luisfpatrocinio/) [![Itch](https://img.shields.io/badge/Itch.io-FA5C5C?style=flat&logo=itchdotio&logoColor=white)](https://patrocinioluisf.itch.io) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white
-)](https://discordapp.com/users/256614318571782154/) [![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white
-)](https://steamcommunity.com/id/patrocinioluisf/) [![Xbox](https://img.shields.io/badge/Xbox-107C10?style=flat&logo=xbox&logoColor=white
-)](https://account.xbox.com/en-US/Profile?gamerTag=&csrf=A2O0H-OOP2hz1Jpr4auTfGnnWbWZDuWEbSW3ddTeT9sVQugxfqVdJH4lDXuPKlqZkZCLRze-bTTEWF2HzYZ8nBVzNVc1) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white
-)](mailto:patrocinioluisf@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white
-)](https://www.instagram.com/luisf.patrocinio/)
 
-I'm a programmer and co-founder of [Black Hole Games][bhgwebsite]. Currently working on [Asleep][asleepwebsite], but always developing numerous games for freelancers and game jams.
-I use GameMaker for several years now, and I am always producing games, available on my [itch.io][itchiolink]!
-###### I also love astronomy🪐, body language🧘‍♂️, science fiction🧬, parallel universes🌌, love💞, sports🏐, books📚 and technology💻.
+
+
+<h2 id="header" align="center">
+Hi there, I'm Luis Felipe Patrocinio! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h2>
+
+<h3 id="header" align="center">
+I'm passionate about learning everything related to game development. 
+</h3>
+ 
+
+<div id="badges" align="center">
+  <a href="https://twitter.com/patrocinioluisf">
+    <img src="https://img.shields.io/twitter/url/https/twitter.com/patrocinioluisf.svg??style=flat&label=%20%40patrocinioluisf" alt="Twitter"/>
+  </a>
+  <a href="https://linkedin.com/in/luisfpatrocinio/">
+    <img src="https://img.shields.io/badge/-luisfpatrocinio-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luisfpatrocinio/" alt="LinkedIn"/>
+  </a>
+  <a href="https://patrocinioluisf.itch.io">
+    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=flat&logo=itchdotio&logoColor=white" alt="Itch.io"/>
+  </a>
+</div>
+                                                                                                          
+                                                                                                          
+<div id="badges" align="center">
+  <a href="https://discordapp.com/users/256614318571782154/">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="mailto:patrocinioluisf@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.instagram.com/luisf.patrocinio/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://steamcommunity.com/id/patrocinioluisf/">
+    <img src="https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white" alt="Steam"/>
+  </a>
+  <a href="https://account.xbox.com/en-US/Profile?gamerTag=&csrf=A2O0H-OOP2hz1Jpr4auTfGnnWbWZDuWEbSW3ddTeT9sVQugxfqVdJH4lDXuPKlqZkZCLRze-bTTEWF2HzYZ8nBVzNVc1">
+    <img src="https://img.shields.io/badge/Xbox-107C10?style=flat&logo=xbox&logoColor=white" alt="Xbox"/>
+  </a>
+</div>
+
+<div align="center">
+I'm a programmer and co-founder of <a href="https://www.blackhole.games/">Black Hole Games</a>. Currently working on <a href="http://bit.ly/AsleepSteam">Asleep</a>, but always developing numerous games for freelancers and game jams.
+I use GameMaker for several years now, and I am always producing games, most of them available on my <a href="https://patrocinioluisf.itch.io">Itch.io</a>!
+</div>
+
+#
+
+<h5 align="center">
+I also love astronomy🪐, body language🧘‍♂️, science fiction🧬, parallel universes🌌, love💞, sports🏐, books📚 and technology💻.
+</h5>
 
 [bhgwebsite]: https://www.blackhole.games/
 [asleepwebsite]: http://bit.ly/AsleepSteam
@@ -22,4 +63,3 @@ I use GameMaker for several years now, and I am always producing games, availabl
 [discordlink]: https://discordapp.com/users/256614318571782154/
 [bhgdiscordlink]: https://discord.gg/Y9zTPXpdw9
 [itchiolink]: https://patrocinioluisf.itch.io
-
