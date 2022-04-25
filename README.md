@@ -52,6 +52,14 @@ I use GameMaker for several years now, and I am always producing games, most of 
 
 #
 
+<div align="center">
+<a href="https://github.com/luisfpatrocinio/">
+<img src="https://github-readme-stats.vercel.app/api?username=luisfpatrocinio&count_private=true&show_icons=true&theme=algolia">
+</a>
+</div>
+
+#
+
 <h5 align="center">
 I also love astronomy🪐, body language🧘‍♂️, science fiction🧬, parallel universes🌌, love💞, sports🏐, books📚 and technology💻.
 </h5>
