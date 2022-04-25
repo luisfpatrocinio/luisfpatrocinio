@@ -45,6 +45,8 @@ I'm passionate about learning everything related to game development.
   </a>
 </div>
 
+<br>
+
 <div align="center">
 I'm a programmer and co-founder of <a href="https://www.blackhole.games/">Black Hole Games</a>. Currently working on <a href="http://bit.ly/AsleepSteam">Asleep</a>, but always developing numerous games for freelancers and game jams.
 I use GameMaker for several years now, and I am always producing games, most of them available on my <a href="https://patrocinioluisf.itch.io">Itch.io</a>!
