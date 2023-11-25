@@ -72,7 +72,7 @@ I use GameMaker for several years now, and I am always producing games, most of 
 #
 
 <h5 align="center">
-I also love astronomy🪐, body language🧘‍♂️, science fiction🧬, parallel universes🌌, love💞, sports🏐, books📚 and technology💻.
+I also love astronomy🪐, body language🧘‍♂️, science fiction🧬, parallel universes🌌, love💞, sports🏐, books📚, drinks🍹 and technology💻.
 </h5>
 
 #
