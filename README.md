@@ -82,10 +82,6 @@ I also love astronomy🪐, body language🧘‍♂️, science fiction🧬, para
 <br>
 
 
-<div align = "center">
-My favorite game engine is: <a href="https://gamemaker.io/"> <img src="https://coal.gamemaker.io/sites/5d75794b3c84c70006700381/assets/624ffbbc21542a00126f790b/GameMakerlogo.png"> </a>
-</div>
-
 [bhgwebsite]: https://www.blackhole.games/
 [asleepwebsite]: http://bit.ly/AsleepSteam
 [twitterlink]: https://twitter.com/patrocinioluisf
