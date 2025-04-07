@@ -54,6 +54,13 @@ I'm passionate about learning everything related to game development.
   </a>
 </div>
 
+<div id="badges" align="center">
+  <a href="https://dev.to/patrocinioluisf">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white" alt="Dev.to"/>
+  </a>
+</div>
+
+
 <br>
 
 <div align="center">
