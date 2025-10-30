@@ -22,7 +22,7 @@
 
 ### 💻 Tech Stack
 
-- **Game Development:** `GameMaker`, `Godot`, `Unity (basic)`
+- **Game Development:** `GameMaker`, `Godot`, `Unity`
 - **Embedded Systems & IoT:** `C`, `Arduino Platform`, `Raspberry Pi`, `ESP32`
 - **Other:** `Git`, `JavaScript`, `HTML/CSS`, `Python`
 
