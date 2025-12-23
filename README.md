@@ -16,14 +16,14 @@
 
 - 🎮 **Game Development:** I create games for multiple platforms, from personal and client projects to rapid prototypes developed in Game Jams. My focus is on turning ideas into fun and interactive experiences.
 
-- 🔧 **Embedded Systems & IoT:** I dive into low-level programming with C and microcontrollers, blending my game development background with hardware. My passion lies in creating tangible, game-oriented devices (like custom joysticks and controllers) that bridge the gap between physical interaction and digital play.
+- 🔧 **Embedded Systems & IoT:** I dive into low-level programming with C/C++ and microcontrollers, blending my game development background with hardware. My passion lies in creating tangible, game-oriented devices (like custom joysticks and controllers) that bridge the gap between physical interaction and digital play.
 
 - 🧠 **Continuous Learning:** I'm always studying and applying new concepts in software engineering, data structures, and AI, looking for ways to bridge the knowledge between game development and embedded systems.
 
 ### 💻 Tech Stack
 
 - **Game Development:** `GameMaker`, `Godot`, `Unity`
-- **Embedded Systems & IoT:** `C`, `Arduino Platform`, `Raspberry Pi`, `ESP32`
+- **Embedded Systems & IoT:** `C/C++`, `Arduino Platform`, `Raspberry Pi`, `ESP32`
 - **Other:** `Git`, `JavaScript`, `HTML/CSS`, `Python`
 
 ### ✍️ Where I Write
