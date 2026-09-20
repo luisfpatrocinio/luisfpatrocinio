@@ -3,7 +3,11 @@
 </h1>
 
 <p align="center">
-  <strong>Game Developer | Embedded Systems & IoT Researcher & Developer</strong>
+  <strong>Game Developer | Embedded Systems & IoT Researcher | Tech Educator</strong>
+</p>
+
+<p align="center">
+  <a href="https://patrodev.com" target="_blank"><img align="center" src="https://img.shields.io/badge/patrodev.com-EA580C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
 </p>
 
 <p align="center">
@@ -12,23 +16,29 @@
 
 ---
 
-### What I Do
+### 🏰 My Digital HQ
+
+I recently launched my personal hub: **[patrodev.com](https://patrodev.com)**. 
+Built with a "Tech Brutalism" aesthetic using Astro, this is the central headquarters for everything I do. There you will find:
+- 🕹️ **Projects:** My game portfolio and embedded systems prototypes.
+- 📓 **Dev Logs:** Articles and tutorials (automatically synced via API with my [Dev.to](https://dev.to/patrocinioluisf)).
+- 👨‍🏫 **Classroom:** Educational resources, slides, and exercise lists for my programming and robotics students.
+
+---
+
+### 🚀 What I Do
 
 - 🎮 **Game Development:** I create games for multiple platforms, from personal and client projects to rapid prototypes developed in Game Jams. My focus is on turning ideas into fun and interactive experiences.
-
 - 🔧 **Embedded Systems & IoT:** I dive into low-level programming with C/C++ and microcontrollers, blending my game development background with hardware. My passion lies in creating tangible, game-oriented devices (like custom joysticks and controllers) that bridge the gap between physical interaction and digital play.
-
+- 👨‍🏫 **Tech Education:** I teach Robotics, Artificial Intelligence, and Programming to students, aiming to demystify logic and shape the next generation of tech creators rather than just passive consumers.
 - 🧠 **Continuous Learning:** I'm always studying and applying new concepts in software engineering, data structures, and AI, looking for ways to bridge the knowledge between game development and embedded systems.
 
 ### 💻 Tech Stack
 
 - **Game Development:** `GameMaker`, `Godot`, `Unity`
-- **Embedded Systems & IoT:** `C/C++`, `Arduino Platform`, `Raspberry Pi`, `ESP32`
-- **Other:** `Git`, `JavaScript`, `HTML/CSS`, `Python`
-
-### ✍️ Where I Write
-
-I share my experiences, learnings, and the journey between game development and embedded systems on my blog. My first post, **"[Patro Powered by Passion: Games, Systems, and Infinite Learning](https://dev.to/patrocinioluisf/patro-powered-by-passion-games-systems-and-infinite-learning-52f1)"**, details my career path and how I connect these two fields.
+- **Embedded Systems & IoT:** `C/C++`, `Arduino Platform`, `Raspberry Pi Pico`, `ESP32`
+- **Web Development:** `Astro`, `TailwindCSS`, `JavaScript / TypeScript`
+- **Other:** `Git`, `Python`
 
 ### 📫 Let's Connect
 
